@@ -15,7 +15,7 @@ import controlador.Controlador;
 import modelo.CompruebaAcceso;
 import modelo.Conexion;
 import modelo.ExportClientes;
-import modelo.Exportxls;
+import modelo.Exportxls;  
 
 public class VentanaPedidos extends JFrame {
     private BufferedImage backgroundImage;
